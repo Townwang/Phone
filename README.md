@@ -2,7 +2,7 @@
 Apartment building based on android to get system information.
 
 ## Log
-[![Download](https://api.bintray.com/packages/townwang/Phone/logutils/images/download.svg)](https://bintray.com/townwang/Phone/phone/_latestVersion)
+ [ ![Download](https://api.bintray.com/packages/townwang/Phone/phone/images/download.svg) ](https://bintray.com/townwang/Phone/phone/_latestVersion)
 [![GitHub license](https://img.shields.io/badge/license-Apache%20License%202.0-blue.svg?style=flat)](http://www.apache.org/licenses/LICENSE-2.0)
 
 > 获取手机的各种信息的工具类  mac地址已实现确保可以获取到
